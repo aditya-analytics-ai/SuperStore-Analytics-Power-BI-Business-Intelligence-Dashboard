@@ -60,6 +60,3 @@ ToolPurposePower BI DesktopDashboard creation & data modelingPower QueryData cle
 
 # Author
 Adityamohan Singh
-
-GitHub: @your-username
-LinkedIn: your-linkedin
